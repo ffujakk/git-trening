@@ -5,3 +5,5 @@ Moje prvé cvičenia s Gitom a GitHubom.
 * **Autor:** Filip F.
 * **Trieda:** IV.AT.
 * **Dátum:** 14.9.2026
+
+Tento riadok pridal môj kolega priamo cez webové rozhranie.
